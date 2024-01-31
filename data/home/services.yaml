@@ -6,22 +6,22 @@ content:
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Cloud Native"
+      text: "Unlock the full potential of cloud computing with our cloud-native consulting services, designed to optimize your applications and infrastructure for scalability, resilience, and agility in the digital era. "
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Foss Consulting"
+      text: "Transform your business with our expert FOSS consulting services, tailored to harness the power of open-source software for innovation, cost-efficiency, and scalability. "
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Database Consulting"
+      text: "Drive efficiency and scalability with our expert open-source SQL and NoSQL database consulting services, tailored to optimize your data infrastructure for enhanced performance and flexibility. "
       button:
         label: "Learn more"
         url: "#"

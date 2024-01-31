@@ -2,15 +2,16 @@ baseURL: "https://www.example.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "Inventiva"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "Inventiva"
+  description: "Welcome to Inventiva - Your FOSS and Cloud Experts!
+At Inventiva, we're passionate about empowering businesses with the latest in open source and cloud technologies. From seamless Linux integration to optimizing your Kubernetes deployments, we've got you covered. Let's innovate together!"
   images: 
     - "images/hero-image.png"
 
@@ -28,14 +29,15 @@ params:
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "Plot No 243, Shiravane,
+Sec 1, Nerul, Navi Mumbai.
+MH, Bharat (India) 400706."
+
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "91 (8355) 946-930"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2024 Inventiva All Rights Reserved"
 
 menus:
   main:

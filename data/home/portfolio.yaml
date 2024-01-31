@@ -3,9 +3,9 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Cloud Native Consulting"
+    title: "Expert Cloud-Native Consulting Solutions"
+    text: "Unlock the full potential of cloud computing with our cloud-native consulting services, designed to optimize your applications and infrastructure for scalability, resilience, and agility in the digital era."
 
     buttons: 
       - label: "See live"
@@ -15,21 +15,9 @@ content:
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Foss Consulting"
+    title: "Strategic FOSS Consulting Solutions"
+    text: "Transform your business with our expert FOSS consulting services, tailored to harness the power of open-source software for innovation, cost-efficiency, and scalability"
 
     buttons: 
       - label: "See live"
